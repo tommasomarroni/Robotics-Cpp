@@ -19,7 +19,11 @@ make -j 8
 ### Planning
 #### RRT
 
+RRT: path found.
+
 ![](media/rrt_path.gif)
+
+RRT: path not found.
 
 ![](media/rrt_no_path.gif)
 
