@@ -1,3 +1,6 @@
 .DS_Store
 clean_cmake.sh
 run_cmake.sh
+bin
+lib
+build
