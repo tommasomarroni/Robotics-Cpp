@@ -12,7 +12,7 @@ int main() {
         {2.0, 2.0, 2.5, 3.0},   // Second obstacle
         {6.0, 1.0, 8.0, 2.0},   // Third obstacle
         //{4.0, 3.0, 5.5, 4.0},   // Fourth obstacle
-        {4.0, 1.5, 5, 4.0},   // Fourth obstacle
+        {4.0, 1.5, 5, 4.0},     // Fourth obstacle
         {2.0, 0.0, 3.5, 0.5} }; // Fifth obstacle
 
     RRT rrt(start, goal, obstacles, 1000, 0.1, 0.03, 0.1, 100.0);
