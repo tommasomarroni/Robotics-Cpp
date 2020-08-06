@@ -3,8 +3,9 @@ Just a collection of C++ codes concerning robotics (mainly autonomous and mobile
 
 ## Requirements
 
-- cmake
-- opencv
+- CMake
+- OpenCV
+- Eigen (Get Eigen >= 3.3.7 and put Eigen headers folder in usr/local/include)
 
 ## Build
 
