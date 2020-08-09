@@ -31,3 +31,8 @@ RRT: path not found
 ### Localization
 ### SLAM
 ### Other
+#### ICP
+
+ICP (SVD) - 2D
+
+![](media/icp_svd.gif)
