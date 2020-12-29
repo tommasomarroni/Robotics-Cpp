@@ -1,5 +1,5 @@
-# Robotics-Cpp
-Just a collection of C++ codes concerning robotics (mainly autonomous and mobile robotics algorithms).
+# Robotics C++
+Simple collection of C++ codes concerning robotics (mainly autonomous and mobile robotics algorithms) [WORK IN PROGRESS].
 
 ## Requirements
 
