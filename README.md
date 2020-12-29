@@ -16,23 +16,19 @@ cmake ../
 make -j 8
 ```
 
-## Algorithms
-### Planning
-#### RRT
+## Implemented algorithms
 
-RRT: path found
+#### Planning -> RRT (Rapidly-exploring Random Tree)
 
 ![](media/rrt_path.gif)
 
-RRT: path not found
-
 ![](media/rrt_no_path.gif)
 
-### Localization
-### SLAM
-### Other
-#### ICP
-
-ICP (SVD) - 2D
+#### Other -> ICP (Iterative Closest Point, SVD-based, 2D)
 
 ![](media/icp_svd.gif)
+
+<!-- ### Planning -->
+<!-- ### Localization -->
+<!-- ### SLAM -->
+<!-- ### Other -->
