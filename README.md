@@ -1,4 +1,4 @@
-# Robotics C++
+# Robotics C++ code collection
 **Work in progress**: Simple collection of C++ codes concerning robotics (mainly autonomous and mobile robotics algorithms).
 
 ## Requirements
